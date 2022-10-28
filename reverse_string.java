@@ -1,7 +1,6 @@
 // java program to reverse a word
 
-import java.io.*;
-import java.util.Scanner;
+
 
 class GFG {
 	public static void main (String[] args) {
